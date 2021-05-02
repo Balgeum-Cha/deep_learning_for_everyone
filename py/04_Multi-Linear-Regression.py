@@ -100,3 +100,4 @@ graph.dist = 11
 
 plt.show()
 
+print("차밥")
